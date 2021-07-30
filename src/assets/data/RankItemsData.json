@@ -1,0 +1,135 @@
+[
+{
+  "title": "栏目A",
+  "lists": [
+  {
+    "title": "第一种列表",
+    "items": [
+    {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题"
+    }]
+  }, {
+    "title": "第二种列表",
+    "items": [
+    {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题"
+    }]
+  }]
+}, {
+  "title": "栏目B",
+  "lists": [{
+    "title": "第一种列表",
+    "items": [
+    {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题"
+    }, {
+      "id": 1,
+      "imgSrc": "/src/assets/images/cover.png",
+      "title": "这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题这是一个排行榜标题"
+    }]
+  }]
+}, {
+  "title": "栏目C",
+  "lists": []
+}, {
+  "title": "栏目D",
+  "lists": []
+}]

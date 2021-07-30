@@ -1,0 +1,175 @@
+{
+  "msg": "success",
+  "err_num": 0,
+  "data": {
+    "title": "Hello Hao-Ke!你好",
+    "imgSrc": "/src/assets/images/cover.png",
+    "status": "连载",
+    "hot": 0.9,
+    "updatedTime": 1625041356522,
+    "peopleViewedNum": 33,
+    "chapters": [
+      {
+        "name": "Chapter.1",
+        "id": 1
+      },{
+        "name": "Chapter.2",
+        "id": 2
+      },{
+        "name": "Chapter.3",
+        "id": 3
+      },{
+        "name": "Chapter.4",
+        "id": 4
+      },{
+        "name": "Chapter.5",
+        "id": 5
+      },{
+        "name": "Chapter.6",
+        "id": 6
+      },{
+        "name": "Chapter.7",
+        "id": 7
+      },{
+        "name": "Chapter.8",
+        "id": 8
+      },{
+        "name": "Chapter.9",
+        "id": 9
+      },{
+        "name": "Chapter.10",
+        "id": 10
+      },{
+        "name": "Chapter.11",
+        "id": 11
+      },{
+        "name": "Chapter.12",
+        "id": 12
+      },{
+        "name": "Chapter.13",
+        "id": 13
+      },{
+        "name": "Chapter.14",
+        "id": 14
+      },{
+        "name": "Chapter.15",
+        "id": 15
+      },{
+        "name": "Chapter.16",
+        "id": 16
+      },{
+        "name": "Chapter.17",
+        "id": 17
+      },{
+        "name": "Chapter.18",
+        "id": 18
+      },{
+        "name": "Chapter.19",
+        "id": 19
+      },{
+        "name": "Chapter.20",
+        "id": 20
+      },{
+        "name": "Chapter.21",
+        "id": 21
+      },{
+        "name": "Chapter.22",
+        "id": 22
+      },{
+        "name": "Chapter.23",
+        "id": 23
+      },{
+        "name": "Chapter.24",
+        "id": 24
+      },{
+        "name": "Chapter.25",
+        "id": 25
+      },{
+        "name": "Chapter.26",
+        "id": 26
+      },{
+        "name": "Chapter.27",
+        "id": 27
+      },{
+        "name": "Chapter.28",
+        "id": 28
+      },{
+        "name": "Chapter.29",
+        "id": 29
+      },{
+        "name": "Chapter.30",
+        "id": 30
+      }
+    ],
+    "intro": "介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介介绍绍介",
+    "categorys": [
+      {
+        "id": 1,
+        "name": "热血"
+      },{
+        "id": 1,
+        "name": "热血"
+      },{
+        "id": 1,
+        "name": "热血"
+      },{
+        "id": 1,
+        "name": "热血"
+      },{
+        "id": 1,
+        "name": "热血"
+      }
+    ],
+    "similarRecommends": [
+      {
+          "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "url": "https://www.baidu.com",
+          "imgSrc": "/src/assets/images/cover.png",
+          "status": "连载",
+          "category": "冒险",
+          "chapterNum": "176",
+          "hot": 0.35,
+          "peopleViewed": 999,
+          "favoritedNum": 123,
+          "updated_time": 1623825110000,
+          "intro": "1、 四川飞扬新商贸有限公司注册资本3000万元（实缴），目前共2位股东，分别为何良平、蒙文兵。公司从未经营，公司主要资产为四川省成都青羊工业园区（发展区）T区21栋整栋办公楼（清水），地上7层（含顶层）、地下独有车库一层（含电梯），有2个消防通道，总面积约3780平米（最终以证载面积为准），该办公楼目前只签订了房屋买卖合同，暂未办理相关权属文件，据转让方介绍，随时可以办理相关权属文件。2、本次转让标的采用动态报价，限时竞价期为公告期，延时报价期开始时间为公告截止日当日17:00。意向投资方在公告期内报名成功后即可参与报价。 加价幅度为1万元及1万元整数倍。"
+      },{
+          "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "url": "https://www.baidu.com",
+          "imgSrc": "/src/assets/images/cover.png",
+          "status": "连载",
+          "category": "冒险",
+          "chapterNum": "176",
+          "hot": 0.35,
+          "peopleViewed": 999,
+          "favoritedNum": 123,
+          "updated_time": 1623825110000,
+          "intro": "1、 四川飞扬新商贸有限公司注册资本3000万元（实缴），目前共2位股东，分别为何良平、蒙文兵。公司从未经营，公司主要资产为四川省成都青羊工业园区（发展区）T区21栋整栋办公楼（清水），地上7层（含顶层）、地下独有车库一层（含电梯），有2个消防通道，总面积约3780平米（最终以证载面积为准），该办公楼目前只签订了房屋买卖合同，暂未办理相关权属文件，据转让方介绍，随时可以办理相关权属文件。2、本次转让标的采用动态报价，限时竞价期为公告期，延时报价期开始时间为公告截止日当日17:00。意向投资方在公告期内报名成功后即可参与报价。 加价幅度为1万元及1万元整数倍。"
+      },{
+          "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "url": "https://www.baidu.com",
+          "imgSrc": "/src/assets/images/cover.png",
+          "status": "连载",
+          "category": "冒险",
+          "chapterNum": "176",
+          "hot": 0.35,
+          "peopleViewed": 999,
+          "favoritedNum": 123,
+          "updated_time": 1623825110000,
+          "intro": "1、 四川飞扬新商贸有限公司注册资本3000万元（实缴），目前共2位股东，分别为何良平、蒙文兵。公司从未经营，公司主要资产为四川省成都青羊工业园区（发展区）T区21栋整栋办公楼（清水），地上7层（含顶层）、地下独有车库一层（含电梯），有2个消防通道，总面积约3780平米（最终以证载面积为准），该办公楼目前只签订了房屋买卖合同，暂未办理相关权属文件，据转让方介绍，随时可以办理相关权属文件。2、本次转让标的采用动态报价，限时竞价期为公告期，延时报价期开始时间为公告截止日当日17:00。意向投资方在公告期内报名成功后即可参与报价。 加价幅度为1万元及1万元整数倍。"
+      },{
+          "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+          "url": "https://www.baidu.com",
+          "imgSrc": "/src/assets/images/cover.png",
+          "status": "连载",
+          "category": "冒险",
+          "chapterNum": "176",
+          "hot": 0.35,
+          "peopleViewed": 999,
+          "favoritedNum": 123,
+          "updated_time": 1623825110000,
+          "intro": "1、 四川飞扬新商贸有限公司注册资本3000万元（实缴），目前共2位股东，分别为何良平、蒙文兵。公司从未经营，公司主要资产为四川省成都青羊工业园区（发展区）T区21栋整栋办公楼（清水），地上7层（含顶层）、地下独有车库一层（含电梯），有2个消防通道，总面积约3780平米（最终以证载面积为准），该办公楼目前只签订了房屋买卖合同，暂未办理相关权属文件，据转让方介绍，随时可以办理相关权属文件。2、本次转让标的采用动态报价，限时竞价期为公告期，延时报价期开始时间为公告截止日当日17:00。意向投资方在公告期内报名成功后即可参与报价。 加价幅度为1万元及1万元整数倍。"
+      }
+    ]
+  }
+}
